@@ -3,7 +3,7 @@ class ButtonLike extends Component {
     render() {
       return (
         <div className="button-like-counter">
-          <button className="bt">Like</button>
+          <button className="bt" onClick={()=>this.props.onClick()}>Like</button>
         </div>
       );
     }
