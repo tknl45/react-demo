@@ -1,28 +1,21 @@
+header h1{
+  background-color: #4A6BA1;
+  height: 50px;
+  color: aliceblue;
+  margin: 0px;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.counter p{
+  background-color: #333333;
+  color: aliceblue;
+  font-size: 50px;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+.bt{
+  font-size: 30px;
 }
 
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
