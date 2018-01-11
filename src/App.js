@@ -9,7 +9,6 @@ class App extends Component {
   constructor(){
     super();
     this.state={likes:0};   
-    this.like =  this.like.bind(this);
   }
 
   like(){
