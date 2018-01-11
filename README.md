@@ -1,4 +1,4 @@
-#安裝
+##安裝
 git clone https://github.com/tknl45/react-demo demo
 
 cd demo
@@ -6,6 +6,6 @@ cd demo
 yarn install
 
 
-#執行
+##執行
 
 yarn start
